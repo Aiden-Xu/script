@@ -1,8 +1,16 @@
+import winreg
+
+
+key = winreg.OpenKey(winreg.HKEY_CURRENT_USER,
+                     r'Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders')  # 利用系统的链表
+
+Desktop_path = str(winreg.QueryValueEx(key, "Desktop")[0])  # Unicode转化为str
+print(Desktop_path)
 #关键词
 key =  ["AVML","BBML","BLML","CHML","DBML","FPML","GFML","HNML","KSML","LCML","LFML","LSML","MOML","NLML","RVML","SFML","VGML","VJML","VLML","VOML","SPML"]
 wenben=""
 #源文件
-for line in open('C:/Users/XMH/Desktop/1.txt','r', encoding='UTF-8') :
+for line in open(Desktop_path+'/1.txt','r', encoding='UTF-8') :
     wenben+=line
 
 final = ""
@@ -20,6 +28,10 @@ for word in key:
     final += word+":"+str(count)+"\n"
 print(final)
 #输出到桌面TXT
-filename = 'C:/Users/XMH/Desktop/处理后.txt'
+filename = Desktop_path+'/2.txt'
 with open(filename,'w') as file_object:
     file_object.write(final)
+
+
+
+
