@@ -1,0 +1,123 @@
+MS889+S                                                                        
+REQ MEAL                                                                        
+CA 889 /20SEP   PEK                                                             
+33A                                                                             
+PEK    J25//25          B       1940                                            
+        1AVML 1BAGARIA/ANURAG                                                   
+        1AVML 1BAGARIA/NEHA                                                     
+        1AVML 1DALMIA/SANJAYMR                                                  
+        1AVML 1PATEL/NARANJIBHAI                            14LN                
+        1AVML 1PATEL/INDIRABEN                              14LN                
+        2AVML 2KOTADIA/MEGHJI NANJI MR/SHANTABEN MEGHJI MRS                     
+        1AVML 1MITTAL/VINEETMR                              13CN                
+        1AVML 1KULKARNI/SUDHEENDRA MR                       12AN               +
+                                                                               
+
+PN                                                                             
+        1AVML 1MARATHE/ADITI YESHWANT MS                    12CN               -
+        1AVML 1PARANDEKAR/MANORAMA BHALCHANDRA MRS          12DN                
+        1AVML 1KHANKARI/VANDANA MS                          12JN                
+       G0//0            B                                                       
+       Y151//151        B                                                       
+        1AVML 1JAIN/HEMANT MR                                                   
+        1AVML 1BHATT/VIDHI NISHIL MS                                            
+        1VJML 1ZAVERI/SAMIR MR                                                  
+        1HNML 1BANDA/NAZNEEN MRS                                                
+        1AVML 1SANGHAVI/KALPESH VASANTLAL MR                                    
+        1AVML 1MEHTA/DEVANSH AMEETKUMAR                                         
+        1AVML 1BHAVSAR/RAJESHKUMAR VASANTLAL MR                                +
+                                                                               
+                                                                                
+                                                                                
+PN                                                                             
+        1AVML 1PANCHAL/DHAVAL NITINBHAI MR                                     -
+        1AVML 1PATEL/CHETANKUMAR VANMALIBHAI MR                                 
+        1AVML 1NAVADIYA/VIJAY                                                   
+        1AVML 1TANNA/KALPESH                                                    
+        1AVML 1PATEL/MITESHMR                                                   
+        1AVML 1PATEL/POOJANKUMARMR                                              
+        1VJML 1MOTISARIYA/RAJESHMR                                              
+        1AVML 1OSWAL/SHANTILAL HIRALAL MR                                       
+        1FPML 1SHAIKHANI/MOHAMED AMIN MR                                        
+        1SFML 1KHAN/MOHAMMEDSAMIRMR                                             
+        1SFML 1ANSARI/AYAAZABBUMR                                               
+        1SFML 1SHAIKH/MOHAMMEDSHOAILMR                                         +
+                                                                               
+                                                                                
+                                                                                
+PN                                                                             
+        1SFML 1SAYYED/NADAFHABIBMR                                             -
+        1AVML 1BHATT/DIVYANG M                                                  
+        1AVML 1SOLANKI/BHIMASI MERAMAN                                          
+        1FPML 1SOLANKI/USHABEN BHIMASIBHAI                                      
+        1FPML 1SOLANKI/PARAM BHIMASIBHAI                                        
+        1VJML 1PAANWALA/MOHAMMED ANISMIYA MR                                    
+        2AVML 1GANNU/SNEHAL 1GANNU/VINOD                                        
+        1AVML 1KOZHINJAMPARA/CHANDRAN SANGEETH MOHAN MR                         
+        1FPML 1SHAH/MEENA BIPINCHANDRA MRS                                      
+        1VJML 1SHAH/JITENDRA PREMCHAND MR                                       
+        2AVML 1CHEETALIA/ANILKUMAR MR 1PALADIYA/SHAILESHKUMAR MR                
+        1HNML 1SANGHVI/JAYSURESHMR                                             +
+                                                                               
+                                                                                
+                                                                                
+PN                                                                             
+        1AVML 1KHANDELIA/YOGESHMR                                              -
+        1HNML 1GUPTA/GAUTAM                                                     
+        1AVML 1KHATRI/VINOD MR                              44JN                
+        1AVML 1TIWARI/JIVANDAS                                                  
+        1SFML 1KULKARNI/KAUSTUBHMR                                              
+        1AVML 1VYAS/VRAJESH NARAYAN MR                                          
+        1AVML 1SHAH/PADAMSHI MR                                                 
+        1HNML 1MANDHYAN/VINAY RAMESH MR                     47LN                
+        1MOML 1BAKSH/MOHAMMED ALEEMUDDIN                    45CN                
+        1AVML 1TOPRANI/KIRAN MULJI                                              
+        1VJML 1PATWA/FALAK DIPANKUMAR                                           
+        1VJML 1CHATURVEDI/ROHIT                                                +
+                                                                               
+                                                                                
+                                                                                
+PN                                                                             
+        1VJML 1SHAH/MUKESH                                                     -
+        1VGML 1SHAIKH/HAROON ABDUL S MR                                         
+        1AVML 1SHRINGARPURE/SUHAS NARAYAN                                       
+        1AVML 1BHALLA/AMITMR                                43DN                
+        1AVML 1SHAH/ANIL POPATLAL MR                                            
+        1AVML 1KANERIYA/PRAVINKUMAR                                             
+        2VGML 1AMIN/JAYESH 1PATEL/USHABEN                                       
+        2AVML 1CHALUVADI/HEMARAMYASRI 1DAMERA/THARUN                            
+        1HNML 1AMMAIYAPPAN/KESAVAN MR                       41HN                
+        1VJML 1BHAVSAR/SUKETUMR                             56LN                
+        1AVML 1JOSHI/SANJAYKUMARMR                          41FN                
+        1AVML 1PATKAR/DIPIKA                                                   +
+                                                                               
+                                                                                
+                                                                                
+PN                                                                             
+        1AVML 1PATKAR/ISHWARI                                                  -
+        1AVML 1SHAH/RINAL NAYANKUMAR                        40DN                
+        1AVML 1PANDYA/MANANBHARATKUMARMR                    40CN                
+        1AVML 1BUDHWANI/AZIM TAJUDDIN                                           
+        1VGML 1LIU/HUIMIN MS                                                    
+        1AVML 1SHAH/YOGESH RAMESH                           43JN                
+        1AVML 1GUPTA/MOHITKUMAR RAMESHPAL                   43LN                
+        1HNML 1LOKHANDE/PRAKASH YASHAVANT                   42LN                
+        1HNML 1LOKHANDE/MANGALA PRAKASH                     42JN                
+        1FPML 1KATORIWALA/SONALBEN HARSHADBHAI                                  
+        1FPML 1KATORIWALA/HARSHADKUMAR POPATLAL                                 
+        1VJML 1SHAH/HEMANTKUMAR JENTILAL                                       +
+                                                                               
+                                                                                
+                                                                                
+PN                                                                             
+        1AVML 1JHANWAR/SRIJAN                               42AN               -
+        1AVML 1SHAH/MAHEK                                   40AN                
+        1VGML 1BHAGWAT/SNEHA MRS                            40HN                
+        1AVML 1RATHI/PRAYAGCHAND BHAGWANDAS                 57JN                
+        1AVML 1RATHI/BHAWARIDEVI BHAGWANDAS                 57LN                
+        2HNML 1SHARAN/MITHILESH KUMAR 1SHARAN/NINA          45JN                
+        1HNML 1LUCYVACACHALILKURIEN/MS                                          
+        1AVML 1PANCHAL/YASHVI MS                                                
+        1AVML 1GIRIYA/PRAFUL                                                    
+END                                                                             
+  
